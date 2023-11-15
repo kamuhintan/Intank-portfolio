@@ -9,7 +9,7 @@ const Footer = () => {
     <a href="https://instagram.com/kamuhintan_?igshid=MmVlMjlkMTBhMg%3D%3D&utm_source=qr" className="footer__icon"><i className="bx bxl-instagram" /></a>
     <a href="https://github.com/search?q=edaintan2010&type=repositories" className="footer__icon"><i className="bx bxl-github" /></a>
   </div>
-  <p className="footer__copy">© Bedimcode. All rigths reserved</p>
+  <p className="footer__copy">© Intans All rigths reserved</p>
 </footer>
 
   )
